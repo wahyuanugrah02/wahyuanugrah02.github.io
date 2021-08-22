@@ -1,0 +1,23 @@
+.jumbotron { 
+  background-color: #999999;
+  background-image: url('img/gallery/t6.jpg');
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+.display-4 {
+  font-size: 60px;
+  color: aliceblue;
+}
+.lead {
+  font-size: 30px;
+}
+#about {
+  background-color: rgb(206, 162, 19);
+}
+#gallery {
+  background-color: #273036;
+}
+section {
+  padding-top: 3rem;
+}
